@@ -2,7 +2,7 @@
 
 Welcome to my **CPS Academy Competitive Programming** repository.
 
-This repository contains my complete solutions to the **CPS Academy Competitive Programming Course**, starting from **Beginner (Zero Level)** to **Advanced**. It documents my learning journey, practice, and progress in Competitive Programming using **C++**.
+This repository contains my complete solutions to the **CPS Academy Competitive Programming Course**, starting from **Beginner (Zero Level)** to **Advanced**. It documents my learning journey, practice, and progress in Competitive Programming using **C & C++**.
 
 ---
 
@@ -53,6 +53,7 @@ The purpose of this repository is to:
 
 # 🛠 Programming Language
 
+- C
 - C++
 
 ---
