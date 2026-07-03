@@ -55,36 +55,7 @@ This folder contains my C++ solutions for the **Conditional Statements** topic f
 - Learn decision-making using if, else if, and else
 - Solve branching and condition-based problems
 - Build a strong foundation for algorithmic thinking
-
----
-
-## 📂 Folder Structure
-
-```text
-Conditional-Statements/
-├── Thala_For_A_Reason.cpp
-├── Small_Large_or_Equal.cpp
-├── Range.cpp
-├── 404_Not_Found.cpp
-├── 2UP3DOWN.cpp
-├── Minimum_Wage.cpp
-├── Water_Park.cpp
-├── Cricket_World_Cup_Qualifier.cpp
-├── Rivalry.cpp
-├── Fan_Poll.cpp
-├── Sorting_Three_Numbers.cpp
-├── October_Marathon.cpp
-├── Sports_Section.cpp
-├── Air_Quality_Index.cpp
-├── All_New_CodeChef.cpp
-├── Puzzle_Hunt.cpp
-├── Messi_vs_Ronaldo.cpp
-├── Oneful_Pairs.cpp
-├── Pentagon.cpp
-├── Subscribers.cpp
-└── README.md
-```
-
+  
 ---
 
 ## 👨‍💻 Author
