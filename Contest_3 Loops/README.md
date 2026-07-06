@@ -4,38 +4,38 @@ This folder contains my solutions for **Contest 03: Loops** from the **CPS Acade
 
 ## Problems Solved
 
-| No. | Problem Name | Online Judge | Solution |
-|:---:|--------------|--------------|:--------:|
-| 01 | Print Many Hello World | [Aizu Online Judge](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_A) | ✅ |
-| 02 | Ageing | [CodeChef](https://www.codechef.com/problems/AGEING) | ✅ |
-| 03 | IPL Ticket Rush | [CodeChef](https://www.codechef.com/problems/IPLTRSH) | ✅ |
-| 04 | Chef and Donation | [CodeChef](https://www.codechef.com/problems/DNATION) | ✅ |
-| 05 | Dislike of Threes | [Codeforces](https://codeforces.com/contest/1560/problem/A) | ✅ |
-| 06 | Sunny Day | [CodeChef](https://www.codechef.com/problems/SUNNYDAY) | ✅ |
-| 07 | Long Loong | [AtCoder](https://atcoder.jp/contests/abc336/tasks/abc336_a) | ✅ |
-| 08 | Not Too Hard | [AtCoder](https://atcoder.jp/contests/abc328/tasks/abc328_a) | ✅ |
-| 09 | Candy Division | [CodeChef](https://www.codechef.com/problems/CANDIVIDE) | ✅ |
-| 10 | Ten Words of Wisdom | [Codeforces](https://codeforces.com/contest/1850/problem/B) | ✅ |
-| 11 | Donation Drive | [CodeChef](https://www.codechef.com/problems/DONDRIVE) | ✅ |
-| 12 | Right There | [CodeChef](https://www.codechef.com/problems/RIGHTTHERE) | ✅ |
-| 13 | Glass and Mug | [AtCoder](https://atcoder.jp/contests/abc332/tasks/abc332_b) | ✅ |
-| 14 | Division | [Codeforces](https://codeforces.com/contest/1669/problem/A) | ✅ |
-| 15 | Hattrick | [CodeChef](https://www.codechef.com/problems/HATTRICK) | ✅ |
-| 16 | Airlines | [CodeChef](https://www.codechef.com/problems/SPCP2) | ✅ |
-| 17 | Worth of a Video | [CodeChef](https://www.codechef.com/problems/VIDEOWORTH) | ✅ |
-| 18 | Pending Assignments | [CodeChef](https://www.codechef.com/problems/ASSIGNMNT) | ✅ |
-| 19 | Fair Share Settlement | [CodeChef](https://www.codechef.com/problems/FAIRSHARE) | ✅ |
-| 20 | Exams | [CodeChef](https://www.codechef.com/problems/EXAMCHEF) | ✅ |
-| 21 | Sum of Round Numbers | [Codeforces](https://codeforces.com/contest/1352/problem/A) | ✅ |
-| 22 | Chess Pairing | [CodeChef](https://www.codechef.com/problems/CHESS_PAIR) | ✅ |
-| 23 | Sunday Brunch | [CodeChef](https://www.codechef.com/problems/BRUNCH) | ✅ |
-| 24 | Greetings from LightOJ | [LightOJ](https://lightoj.com/problem/greetings-from-lightoj) | ✅ |
-| 25 | Same Parity Summands | [Codeforces](https://codeforces.com/contest/1352/problem/B) | ✅ |
-| 26 | Selling Insurance | [CodeChef](https://www.codechef.com/problems/AGENTCHEF) | ✅ |
-| 27 | Survival Time | [CodeChef](https://www.codechef.com/problems/FIZZBUZZ23_2) | ✅ |
-| 28 | Dice Number | [CodeChef](https://www.codechef.com/problems/DICENUM) | ✅ |
-| 29 | Pizza Cutting | [CodeChef](https://www.codechef.com/problems/PIZZAC) | ✅ |
-| 30 | Achieve the Goal | [AtCoder](https://atcoder.jp/contests/abc151/tasks/abc151_b?lang=en) | ✅ |
+| No. | Problem Name | Problem Link | Online Judge |
+|:---:|--------------|--------------|--------------|
+| 01 | Print Many Hello World | [Link](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_A) | Aizu Online Judge |
+| 02 | Ageing | [Link](https://www.codechef.com/problems/AGEING) | CodeChef |
+| 03 | IPL Ticket Rush | [Link](https://www.codechef.com/problems/IPLTRSH) | CodeChef |
+| 04 | Chef and Donation | [Link](https://www.codechef.com/problems/DNATION) | CodeChef |
+| 05 | Dislike of Threes | [Link](https://codeforces.com/contest/1560/problem/A) | Codeforces |
+| 06 | Sunny Day | [Link](https://www.codechef.com/problems/SUNNYDAY) | CodeChef |
+| 07 | Long Loong | [Link](https://atcoder.jp/contests/abc336/tasks/abc336_a) | AtCoder |
+| 08 | Not Too Hard | [Link](https://atcoder.jp/contests/abc328/tasks/abc328_a) | AtCoder |
+| 09 | Candy Division | [Link](https://www.codechef.com/problems/CANDIVIDE) | CodeChef |
+| 10 | Ten Words of Wisdom | [Link](https://codeforces.com/contest/1850/problem/B) | Codeforces |
+| 11 | Donation Drive | [Link](https://www.codechef.com/problems/DONDRIVE) | CodeChef |
+| 12 | Right There | [Link](https://www.codechef.com/problems/RIGHTTHERE) | CodeChef |
+| 13 | Glass and Mug | [Link](https://atcoder.jp/contests/abc332/tasks/abc332_b) | AtCoder |
+| 14 | Division | [Link](https://codeforces.com/contest/1669/problem/A) | Codeforces |
+| 15 | Hattrick | [Link](https://www.codechef.com/problems/HATTRICK) | CodeChef |
+| 16 | Airlines | [Link](https://www.codechef.com/problems/SPCP2) | CodeChef |
+| 17 | Worth of a Video | [Link](https://www.codechef.com/problems/VIDEOWORTH) | CodeChef |
+| 18 | Pending Assignments | [Link](https://www.codechef.com/problems/ASSIGNMNT) | CodeChef |
+| 19 | Fair Share Settlement | [Link](https://www.codechef.com/problems/FAIRSHARE) | CodeChef |
+| 20 | Exams | [Link](https://www.codechef.com/problems/EXAMCHEF) | CodeChef |
+| 21 | Sum of Round Numbers | [Link](https://codeforces.com/contest/1352/problem/A) | Codeforces |
+| 22 | Chess Pairing | [Link](https://www.codechef.com/problems/CHESS_PAIR) | CodeChef |
+| 23 | Sunday Brunch | [Link](https://www.codechef.com/problems/BRUNCH) | CodeChef |
+| 24 | Greetings from LightOJ | [Link](https://lightoj.com/problem/greetings-from-lightoj) | LightOJ |
+| 25 | Same Parity Summands | [Link](https://codeforces.com/contest/1352/problem/B) | Codeforces |
+| 26 | Selling Insurance | [Link](https://www.codechef.com/problems/AGENTCHEF) | CodeChef |
+| 27 | Survival Time | [Link](https://www.codechef.com/problems/FIZZBUZZ23_2) | CodeChef |
+| 28 | Dice Number | [Link](https://www.codechef.com/problems/DICENUM) | CodeChef |
+| 29 | Pizza Cutting | [Link](https://www.codechef.com/problems/PIZZAC) | CodeChef |
+| 30 | Achieve the Goal | [Link](https://atcoder.jp/contests/abc151/tasks/abc151_b?lang=en) | AtCoder |
 
 ---
 
@@ -47,4 +47,5 @@ This folder contains my solutions for **Contest 03: Loops** from the **CPS Acade
 - **Language:** C++
 
 ---
+
 ⭐ These solutions are part of my Competitive Programming journey and are uploaded for learning, practice, and future reference.
