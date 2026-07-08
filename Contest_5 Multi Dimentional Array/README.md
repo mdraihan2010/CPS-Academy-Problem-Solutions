@@ -1,4 +1,4 @@
-# Contest 05: Matrix
+# Contest 05: Multi Dimentional Array
 
 This folder contains my solutions for **Contest 05: Matrix** from the **CPS Academy Problem Solving Course**.
 
