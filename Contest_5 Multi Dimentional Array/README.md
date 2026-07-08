@@ -1,6 +1,6 @@
 # Contest 05: Multi Dimentional Array
 
-This folder contains my solutions for **Contest 05: Matrix** from the **CPS Academy Problem Solving Course**.
+This folder contains my solutions for **Contest 05: Multi Dimentional Array** from the **CPS Academy Problem Solving Course**.
 
 ## Problems Solved
 
@@ -31,7 +31,7 @@ This folder contains my solutions for **Contest 05: Matrix** from the **CPS Acad
 
 ## Summary
 
-- **Contest:** Contest 05 - Matrix
+- **Contest:** Contest 05 - Multi Dimentional Array
 - **Total Problems Solved:** 20
 - **Platforms:** AtCoder, e-olymp
 - **Language:** C++
