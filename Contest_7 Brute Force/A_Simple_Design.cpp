@@ -1,8 +1,3 @@
-#include <stdio.h>
-int main()
-{
-    // Solution not updated yet
-}
 #include <bits/stdc++.h>
 using namespace std;
 
