@@ -23,6 +23,8 @@ During this course, I learned and practiced the following topics:
 | Contest 07 | Brute Force |
 | Contest 08 | Constructive Algorithm |
 | Contest 09 | Greedy Algorithm |
+| Contest 10 | Mathematics & Basic Implementation |
+| Contest 11 | Function |
 
 > More topics and contests will be added as I continue my Competitive Programming journey.
 
@@ -38,11 +40,13 @@ CPS-Academy-Problem-Solutions/
 ├── Contest_2_Conditional_Statements/
 ├── Contest_3_Loops/
 ├── Contest_4_Array/
-├── Contest_5_Multi_Dimentional_Array/
+├── Contest_5_Multi_Dimensional_Array/
 ├── Contest_6_String/
 ├── Contest_7_Brute_Force/
 ├── Contest_8_Constructive_Algorithm/
 ├── Contest_9_Greedy_Algorithm/
+├── Contest_10_Mathematics_&_Basic_Implementation/
+├── Contest_11_Function/
 │
 └── README.md
 ```
