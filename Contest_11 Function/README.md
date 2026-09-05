@@ -1,6 +1,6 @@
-# Contest 06: String
+# Contest 11: Function
 
-This folder contains my solutions for **Contest 06: String** from the **CPS Academy Problem Solving Course**.
+This folder contains my solutions for **Contest 11: Function** from the **CPS Academy Problem Solving Course**.
 
 ## Problems Solved
 
@@ -41,7 +41,7 @@ This folder contains my solutions for **Contest 06: String** from the **CPS Acad
 
 ## Summary
 
-- **Contest:** Contest 06 - String
+- **Contest:** Contest 11 - Function
 - **Total Problems Solved:** 30
 - **Platforms:** AtCoder, Codeforces, CodeChef, CSES
 - **Language:** C
