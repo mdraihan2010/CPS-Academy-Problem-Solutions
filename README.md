@@ -25,6 +25,13 @@ During this course, I learned and practiced the following topics:
 | Contest 09 | Greedy Algorithm |
 | Contest 10 | Mathematics & Basic Implementation |
 | Contest 11 | Function |
+| Contest 12 | Vector |
+| Contest 13 | String |
+| Contest 14 | Map |
+| Contest 15 | Pairs |
+| Contest 16 | Stack, Queue and Dequeue |
+| Contest 17 | Priority Queue |
+| Contest 18 | Set & Multiset |
 
 > More topics and contests will be added as I continue my Competitive Programming journey.
 
@@ -36,21 +43,29 @@ During this course, I learned and practiced the following topics:
 CPS-Academy-Problem-Solutions/
 │
 ├── 100 Problems of CPS Academy/
-├── Contest_1_Data_types,_Variables,_Operators/
+│
+├── Contest_1_Data types, Variables, Operators/
 ├── Contest_2_Conditional_Statements/
 ├── Contest_3_Loops/
 ├── Contest_4_Array/
-├── Contest_5_Multi_Dimensional_Array/
+├── Contest_5_Multi Dimentional Array/
 ├── Contest_6_String/
 ├── Contest_7_Brute_Force/
 ├── Contest_8_Constructive_Algorithm/
 ├── Contest_9_Greedy_Algorithm/
-├── Contest_10_Mathematics_&_Basic_Implementation/
+├── Contest_10_Math/
 ├── Contest_11_Function/
+├── Contest_12_Vector/
+├── Contest_13_String/
+├── Contest_14_Map/
+├── Contest_15_Pairs/
+├── Contest_16_Stack_Queue_and_Deque/
+├── Contest_17_Priority_Queue/
+├── Contest_18_Set_&_Multiset/
 │
+├── .gitignore
 └── README.md
 ```
-
 ---
 
 # 🎯 Repository Goals
@@ -60,9 +75,12 @@ This repository is created to:
 - Build a strong Competitive Programming foundation
 - Improve logical thinking and problem-solving skills
 - Practice algorithms through real online judge problems
+- Learn and apply Data Structures and Algorithms
+- Understand and practice C++ STL
 - Prepare for ICPC, Codeforces, AtCoder and other programming contests
 - Track my Competitive Programming learning journey
 - Keep all CPS Academy solutions organized in one place
+- Build a strong foundation for advanced Competitive Programming topics
 
 ---
 
@@ -72,6 +90,7 @@ This repository is created to:
 - C++
 
 ---
+
 
 # 🌐 Online Judges
 
@@ -86,6 +105,11 @@ Problems in this repository are solved from various online judges, including:
 - e-olymp
 - Timus Online Judge
 - HackerRank
+- SPOJ
+- UVA
+- VJudge
+- Library Checker
+- HDU
 
 ---
 
@@ -94,10 +118,52 @@ Problems in this repository are solved from various online judges, including:
 - ✅ Contest-wise folder organization
 - ✅ Topic-wise practice
 - ✅ Beginner-friendly structure
-- ✅ Individual README for every contest
+- ✅ Individual `README.md` for every contest
 - ✅ Direct problem links
 - ✅ Online Judge information
 - ✅ Clean and consistent file naming
+- ✅ Solutions organized by Competitive Programming topics
+- ✅ Practice with multiple Online Judges
+- ✅ C++ STL-based problem solving
+
+---
+
+# 📊 Learning Progress
+
+| Contest | Topic | Status |
+|:-------:|-------|:------:|
+| Contest 01 | Data Types, Variables & Operators | ✅ Completed |
+| Contest 02 | Conditional Statements | ✅ Completed |
+| Contest 03 | Loops | ✅ Completed |
+| Contest 04 | Array | ✅ Completed |
+| Contest 05 | Multi-Dimensional Array (Matrix) | ✅ Completed |
+| Contest 06 | String | ✅ Completed |
+| Contest 07 | Brute Force | ✅ Completed |
+| Contest 08 | Constructive Algorithm | ✅ Completed |
+| Contest 09 | Greedy Algorithm | ✅ Completed |
+| Contest 10 | Mathematics & Basic Implementation | ✅ Completed |
+| Contest 11 | Function | ✅ Completed |
+| Contest 12 | Vector | ✅ Completed |
+| Contest 13 | String | ✅ Completed |
+| Contest 14 | Map | ✅ Completed |
+| Contest 15 | Pairs | ✅ Completed |
+| Contest 16 | Stack, Queue and Dequeue | ✅ Completed |
+| Contest 17 | Priority Queue | ✅ Completed |
+| Contest 18 | Set & Multiset | ✅ Completed |
+
+### 🎉 Current Progress
+
+**18 Contests Completed**
+
+---
+
+# 📌 Additional Practice
+
+## 100 Problems of CPS Academy
+
+This repository also contains a separate collection of **100 Problems of CPS Academy** for additional practice and revision.
+
+These problems help reinforce the concepts learned throughout the CPS Academy course and provide additional problem-solving practice.
 
 ---
 
